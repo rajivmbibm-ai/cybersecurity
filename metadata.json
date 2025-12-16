@@ -1,0 +1,5 @@
+{
+  "name": "cyber pro",
+  "description": "A cybersecurity-themed login interface demonstrating client-side validation logic, attempt limiting, and UI feedback loops. Intended for educational purposes to show basic validation concepts within a React environment.",
+  "requestFramePermissions": []
+}
